@@ -1,1 +1,2 @@
-master local modified
+master remote modified
+master remote modified 2
