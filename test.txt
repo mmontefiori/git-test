@@ -2,3 +2,4 @@ initial test
 branch
 remote modified
 remote modified again
+manual edit
